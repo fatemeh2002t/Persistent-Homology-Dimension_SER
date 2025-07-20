@@ -6,7 +6,7 @@ This project is part of my undergraduate thesis, in which I explored a topologic
 
 The method is based on the findings of the following paper:  
 👉 [Intrinsic Dimension,Persistent Homology and Generalization in Neural Networks
-]([https://arxiv.org/abs/2111.13171])  
+] (https://arxiv.org/abs/2111.13171)  
 Using their approach, I applied the technique to a different task: **Speech Emotion Recognition (SER)**.
 
 We observed that the estimated intrinsic dimension (referred to as **PHD**) correlates with the model's generalization performance. Specifically:
